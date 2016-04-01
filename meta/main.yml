@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: "Alexander Lomov"
+  description: "Install concourse CI easily on one host"
+  company: "Altoros"
+  license: "license (GPLv2, CC-BY, etc)"
+  min_ansible_version: 2
+  platforms:
+    - name: "Ubuntu"
+      versions:
+       - all
+  categories:
+    - cloud
+    - testing
+    - ci
+
+dependencies: []
